@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'commit 5'
+echo 'commit 6'
