@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'commit 8.0'
+echo 'commit 7.0'
